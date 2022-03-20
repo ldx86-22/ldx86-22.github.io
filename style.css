@@ -1,3 +1,13 @@
 
  a {color: green;} 
-
+main {
+    flex-direction: column;
+  }
+  header{
+    display: flex;
+    justify-content:center;
+      }   
+footer{
+  display: flex;
+  justify-content:center;
+    }
