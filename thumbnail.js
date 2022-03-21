@@ -1,4 +1,3 @@
-("click", function() {
-   targetImage.classList.add("small");
-targetImage.classList.remove("small");
+targetImage.addEventListener("click", function() {
+    targetImage.classList.remove("small");
 });
