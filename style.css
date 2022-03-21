@@ -1,6 +1,6 @@
-a:hover { color:green;}
+a:hover {color: green;}
 body { display flex;
-flex-direction: column}
+flex-direction: column;}
 
 
  
@@ -10,8 +10,8 @@ flex-direction: column}
 flex: auto;
   }
 
-aside {flex: 1}
-article {flex: 3}
+aside {flex: 1;}
+article {flex: 3;}
   header{
     display: flex;
     justify-content:center;
