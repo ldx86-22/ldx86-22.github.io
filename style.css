@@ -1,11 +1,11 @@
 a:hover {color: green;}
-body { display flex;
+body { display: flex;
 flex-direction: column;}
 
 
  
 
- main { display flex;
+ main { display: flex;
    
 flex: auto;
   }
