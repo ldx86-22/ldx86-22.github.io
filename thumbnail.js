@@ -4,5 +4,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
     targetImage.classList.remove("small");
 });
 });  
-});
+
     
